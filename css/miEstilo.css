@@ -1,0 +1,101 @@
+@font-face{
+    font-family: 'titulos';
+    src:url(cinco.otf);
+
+}
+
+body{
+        background-color: #2D969D;
+}
+
+#cedulat{
+   font-size: 'text-primary';
+   
+}
+
+#tex_pac{
+    font-family: 'titulos';
+    font-size: 90px;
+    text-align: center;
+ 
+}
+#tex_list{
+    font-family: 'titulos';
+    font-size: 40px;
+
+}
+#tex_ini{
+    font-family: 'titulos';
+    font-size: 150px;
+    text-align: left;
+ 
+}
+#tex_for{
+        font-size: 20px;
+        text-align: left;
+}
+#caja3{
+    font-size:20px;
+}
+#forRegMed{
+    text-align: center;
+   
+}
+#forRegPac{
+    text-align: center;
+    align:center;
+}
+
+#forRedMedi{
+    text-align: center;
+
+
+}
+
+
+
+img{
+    position: relative;
+    float: left;
+    width: 700px;
+}
+
+.cajita{
+    position: relative;
+    width: 250px;
+    height: 40px;
+    padding: 5px;
+
+    margin-top: 10px;    
+}
+
+
+
+
+.cajita label{
+    width: 100%;
+    font-weight: bold;
+}
+
+.cajita div{
+    width: 100%;
+}
+
+.btnEli{
+    float: right;
+    background: darkred;
+}
+
+.btnMod{
+    float: left;
+    background: darkcyan;
+}
+
+.cajita2{
+    position: relative;
+    width: 250px;
+    height: 40px;
+    padding: 5px;
+
+    margin-top: 10px;   
+}
